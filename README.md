@@ -1,4 +1,6 @@
-**Attend Easy mobile App in react-native**
+### Attend Easy mobile App in react-native
+
+**Attendance App UI** with **React-Native** Modules **Camera Kit**, **Face Detection**, **Current Location** and **FireStore** as the **Backend** for **Database**.
 
 ** Release APK file link is below ::==>
 
