@@ -8,8 +8,40 @@
 
 (#https://drive.google.com/file/d/1EGJoitmfAevZd9UFOhb3shT-ZJtCbtM6/view?usp=sharing)
 
-### Attend Easy App ScreenShots
+## Attend Easy App ScreenShots
+### iOS App Preview
 
+<table>
+  <tr>
+    <td>Sign Up Screen</td>
+     <td>Login Screen</td>
+     <td>Loading Home Screen</td>
+     <td>Attendance Home Screen</td>
+  </tr>
+  <tr>
+    <td><img alt="Sign Up Screen" src="https://github.com/user-attachments/assets/25074d13-54f2-40b3-b768-99c3af62ea69" width=270 height=480></td>
+    <td><img alt="Login Screen" src="https://github.com/user-attachments/assets/d34f3cdc-d3f7-4124-a756-61f80bdc866b" width=270 height=480></td>
+    <td><img alt="Loading Home Screen" src="https://github.com/user-attachments/assets/9627fce7-4a4d-4002-b3ce-1b87ba24e57d" width=270 height=480></td>
+    <td><img alt="Attendance Home Screen" src="https://github.com/user-attachments/assets/d30cdb3a-c93a-4ae4-a7ff-1a60acdd4942" width=270 height=480></td>
+  </tr>
+ </table>
+
+  <table>
+  <tr>
+    <td>Attendance Detail Screen</td>
+     <td>Mark Attendance Screen</td>
+     <td>Settings Screen</td>
+     <td>Change Language Bottom Sheet</td>
+  </tr>
+  <tr>
+    <td><img alt="Attendance Detail Screen" src="https://github.com/user-attachments/assets/aaf58829-fb95-4c65-aecc-429a1278c1f9" width=270 height=480></td>
+    <td><img alt="Mark Attendance Screen" src="https://github.com/user-attachments/assets/63a423fd-8884-4dd4-8095-e0b109c82351" width=270 height=480></td>
+    <td><img alt="Settings Screen" src="https://github.com/user-attachments/assets/ebe24f32-e525-4084-848f-44c0a4894bf5" width=270 height=480></td>
+    <td><img alt="Change Language Bottom Sheet" src="https://github.com/user-attachments/assets/89f97784-771f-40e1-9a1c-a78e908f12f1" width=270 height=480></td>
+  </tr>
+ </table>
+
+### Android App Preview
 <table>
   <tr>
     <td>Sign Up Screen</td>
@@ -27,7 +59,7 @@
 
  <table>
   <tr>
-    <td>Attendance Screen</td>
+    <td>Attendance Detail Screen</td>
      <td>Mark Attendance Screen</td>
      <td>Settings Screen</td>
      <td>Change Language Bottom Sheet</td>
